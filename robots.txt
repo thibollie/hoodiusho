@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaehohxez.eunmin.com/sitemap.xml
